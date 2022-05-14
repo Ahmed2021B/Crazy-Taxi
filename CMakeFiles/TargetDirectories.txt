@@ -1,0 +1,3 @@
+C:/Users/abelg/Documents/build-flying-plane-sdl-animation-master-MinGW-Debug/CMakeFiles/flying-plane-sdl-animation.dir
+C:/Users/abelg/Documents/build-flying-plane-sdl-animation-master-MinGW-Debug/CMakeFiles/edit_cache.dir
+C:/Users/abelg/Documents/build-flying-plane-sdl-animation-master-MinGW-Debug/CMakeFiles/rebuild_cache.dir
