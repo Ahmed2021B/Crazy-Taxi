@@ -1,4 +1,4 @@
-# Flying plane SDL2 animation
+# Crazy Taxi SDL2 animation
 
 
 
