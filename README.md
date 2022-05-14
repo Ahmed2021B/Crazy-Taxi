@@ -31,6 +31,13 @@ Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LIC
 
 > See [BUILD.md](BUILD.md)
 
+## Authors / Contributors
+
+The project was originally developed by:
+
+- [Amine Ben Hassouna](https://github.com/aminosbh)
+- [Ahmed Belghith](https://github.com/Ahmed2021B)
+
 ## 📝 License
 
 [MIT](https://github.com/Ahmed2021B/Crazy-Taxi/blob/main/LICENSE)
