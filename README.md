@@ -27,6 +27,10 @@ and we appreciate all of them :
 
 Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LICENSE).
 
+## How to build
+
+> See [BUILD.md](BUILD.md)
+
 ## 📝 License
 
 [MIT](https://github.com/Ahmed2021B/Crazy-Taxi/blob/main/LICENSE)
