@@ -4,7 +4,7 @@
 
 ## 🎯 About
 
-Crazy Taxi is a 2d racing video game. Each game the player assume the role of a taxi driver who must accumulate money by
+Crazy Taxi is a 2d racing video game. Each game the player assume the role of a taxi driver who must accumulate money by collecting coins while dodging obstacles and escaping from police.
 
 Go try it and please let me know if you enjoyed it with a ⭐️, I would appreciate it a lot.
 
