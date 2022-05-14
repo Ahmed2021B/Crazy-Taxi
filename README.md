@@ -1,12 +1,12 @@
 <h1 align="center">Crazy Taxi</h1>
 
+![Image of Crazy Taxi Project](assets/logo.png)
 
 ## 🎯 About
 
 Crazy Taxi is a 2d game.
 
-## Logo
-![Image of Crazy Taxi Project](assets/logo.png)
+
 
 
 ## ▶️ Demo
