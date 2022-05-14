@@ -1,5 +1,5 @@
 # Crazy-Taxi
-2d game
+Crazy Taxi is a 2D game 
 
 ## 📝 License
 
